@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "graphql.vscode-graphql",
+    "shopify.polaris-for-vscode",
+  ],
+  "editor.formatOnSave": true,
+"editor.codeActionsOnSave": {
+  "source.organizeImports": true
+}
+}
